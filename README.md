@@ -7,7 +7,7 @@
 ```
 chatbotiq-support-bot/
 ├── autopay__keywords.txt    # Ключевые слова для автосписаний
-├── autopay__messages.txt    # Сообщения и ответы бота
+├── autopay__messages.json    # Сообщения и ответы бота
 └── README.md               # Документация проекта
 ```
 
@@ -16,5 +16,5 @@ chatbotiq-support-bot/
 ### `autopay__keywords.txt`
 Содержит ключевые слова и фразы, которые бот использует для распознавания запросов пользователей по автосписаниям.
 
-### `autopay__messages.txt`
+### `autopay__messages.json`
 Файл для хранения готовых ответов и сообщений бота на запросы пользователей.
